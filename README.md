@@ -18,8 +18,12 @@ In turn, this will allow Apple to better serve their users. It will give them th
 The original dataset contains 3 columns titled 'tweet_text', 'emotion_in_tweet_is_directed_at', and 'is_there_an_emotion_directed_at_a_brand_or_product'. The column 'tweet_text' contains individual tweet content as a string and was renamed 'tweet' for easier understanding. The column 'emotion_in_tweet_is_directed_at' contains strings representing the subject that the tweet is discussing and was renamed 'subject' for simplification. The column 'is_there_an_emotion_directed_at_a_brand_or_product' contains strings representing the percieved emotion being conveyed in the tweet. This column was renamed for 'emotion' for simplification.  
 
 ## Methods 
+We used multiple classification algorithms to learn from our dataset and classify new tweets as having either positive or negative sentiment. The final model we agreed upon was a Random Forest model with tuned hyperparameters.
 
 ## Results
+Our model was created to predict tweet sentiment about Apple products and the brand itself. We chose the metric accuracy. Our final recall score was 88 percent. This means that our model, when ran on unseen data, predicted the observation's true class correctly 98 percent of the time.
+
+This model will benefit the business if put to use because it will flag negative and positive tweets about Apple. Using these insights can help Apple to change and improve their current products as well as improve user's outlooks This model is extremely powerful and can be very beneficial to the Apple Product Team.
 
 ## Conclusion
 
