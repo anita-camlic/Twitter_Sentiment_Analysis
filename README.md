@@ -1,3 +1,4 @@
+![graph1](./visuals/banner.jpeg)
 # Twitter Sentiment Analysis
 Authors: Anita Camlic, Dermot O'Brien, Dermot Holcombe
 ______________________________________________________________________________________________________
@@ -27,7 +28,20 @@ This model will benefit the business if put to use because it will flag negative
 
 ## Conclusion
 
-### For More Information
+## For More Information
 
-______________________________________________________________________________________________________
+Please review our full analysis in [our Jupyter Notebook](./Final_Notebook.ipynb) or our [presentation](./Twitter_Sentiment_Presentation.pdf).
+
+For any additional questions, please contact **Anita Camlic & anitacamlic@gmail.com, Drew Holcombe & drew.holcombe7@gmail.com, Dermot O'Brien & dermot.obri@gmail.com**
+
+## Repository Structure
+
+```
+├── README.md                                    <- The top-level README for reviewers of this project
+├── Final_Notebook.ipynb                         <- Narrative documentation of analysis in Jupyter notebook
+├── Twitter_Sentiment_Presentation.pdf           <- PDF version of project presentation
+├── twitter_data.csv                             <- Externally sourced project data
+├── visuals                                      <- Visuals used in project
+└── scratch_code                                 <- Scratch notebooks                        
+```
 
