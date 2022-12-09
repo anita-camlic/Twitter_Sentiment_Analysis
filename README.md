@@ -38,7 +38,7 @@ Our model's ability to sort negative from positive tweets can give Apple tools t
 
 Please review our full analysis in [our Jupyter Notebook](./Final_Notebook.ipynb) or our [presentation](./Twitter_Sentiment_Presentation.pdf).
 
-For any additional questions, please contact **Anita Camlic & anitacamlic@gmail.com, Drew Holcombe & drew.holcombe7@gmail.com, Dermot O'Brien & dermot.obri@gmail.com**
+For any additional questions, please contact **Anita Camlic at anitacamlic@gmail.com, Drew Holcombe at drew.holcombe7@gmail.com, Dermot O'Brien at dermot.obri@gmail.com**
 
 ## Repository Structure
 
