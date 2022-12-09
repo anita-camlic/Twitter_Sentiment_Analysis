@@ -26,7 +26,13 @@ Our model was created to predict tweet sentiment about Apple products and the br
 
 This model will benefit the business if put to use because it will flag negative and positive tweets about Apple. Using these insights can help Apple to change and improve their current products as well as improve user's outlooks This model is extremely powerful and can be very beneficial to the Apple Product Team.
 
+Below are the visualizations of the top 5 words that contributes the most to our model, a word cloud of the most important words to our positive sentiment class and a word cloud of the most important words to our negative sentiment class.
+![graph1](./visuals/Final_Model_Top_5_Words_Transparent.png)
+![graph1](./visuals/Positive_wordcloud.png)
+![graph1](./visuals/Negative_Wordcloud.png)
+
 ## Conclusion
+Our model's ability to sort negative from positive tweets can give Apple tools to help identify customer areas of concern. This can give valuable insight in the fields of product development and improvement, marketing, and customer relations. Our model offers a way to parse through the massive amount of customer opinions that are floating through the twitterverse and pull the feedback that will be most valuable to Apple as it seeks to improve public opinion and drive future sales.
 
 ## For More Information
 
